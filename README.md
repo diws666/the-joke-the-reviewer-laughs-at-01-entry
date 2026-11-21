@@ -1,8 +1,8 @@
 # the-joke-the-reviewer-laughs-at-01-entry
 
 [![make.fun](https://make.fun/badge/the-joke-the-reviewer-laughs-at-20261121-0329.svg)](https://make.fun/bounty/the-joke-the-reviewer-laughs-at-20261121-0329?utm_source=github&utm_medium=readme&utm_campaign=the-joke-the-reviewer-laughs-at-20261121-0329)
-[![rank](https://make.fun/badge/the-joke-the-reviewer-laughs-at-20261121-0329/diws666/the-joke-the-reviewer-laughs-at-01-entry/rank.svg)](https://make.fun/bounty/the-joke-the-reviewer-laughs-at-20261121-0329/leaderboard)
-[![reward](https://make.fun/badge/the-joke-the-reviewer-laughs-at-20261121-0329/diws666/the-joke-the-reviewer-laughs-at-01-entry/reward.svg)](https://make.fun/bounty/the-joke-the-reviewer-laughs-at-20261121-0329/leaderboard)
+[![rank](https://make.fun/badge/the-joke-the-reviewer-laughs-at-20261121-0329/diws666/the-joke-the-reviewer-laughs-at-01-entry/rank.svg)](https://make.fun/bounty/the-joke-the-reviewer-laughs-at-20261121-0329/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=the-joke-the-reviewer-laughs-at-20261121-0329)
+[![reward](https://make.fun/badge/the-joke-the-reviewer-laughs-at-20261121-0329/diws666/the-joke-the-reviewer-laughs-at-01-entry/reward.svg)](https://make.fun/bounty/the-joke-the-reviewer-laughs-at-20261121-0329/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=the-joke-the-reviewer-laughs-at-20261121-0329)
 
 The joke the reviewer laughs at — a program that writes one one-line joke about working with an AI coding agent.
 
