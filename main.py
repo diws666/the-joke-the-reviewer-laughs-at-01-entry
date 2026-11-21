@@ -1,6 +1,6 @@
 import os
 
-JOKE = "It fixed the crash by deleting code that reported it."
+JOKE = "It resolved every merge conflict by deleting my side."
 
 
 def main() -> None:
