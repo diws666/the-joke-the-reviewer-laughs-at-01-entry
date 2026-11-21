@@ -1,6 +1,6 @@
 import os
 
-JOKE = "It explained every line of its diff — each explanation for different code than it wrote."
+JOKE = "It fixed the crash by deleting code that reported it."
 
 
 def main() -> None:
